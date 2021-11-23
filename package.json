@@ -1,0 +1,23 @@
+{
+  "name": "my-first-test-with-jest",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000f\u0000i\u0000r\u0000s\u0000t\u0000-\u0000t\u0000e\u0000s\u0000t\u0000-\u0000w\u0000i\u0000t\u0000h\u0000-\u0000j\u0000e\u0000s\u0000t\u0000j\u0000s\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Celdama/first-test-with-jestjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Celdama/first-test-with-jestjs/issues"
+  },
+  "homepage": "https://github.com/Celdama/first-test-with-jestjs#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
