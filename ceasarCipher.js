@@ -40,8 +40,5 @@ const getCharCodeLetter = (letters) => {
   return charCodeForEachLetter
 }
 
-console.log(
-  ceaserCipher('hello world')
-)
 
 module.exports = ceaserCipher
