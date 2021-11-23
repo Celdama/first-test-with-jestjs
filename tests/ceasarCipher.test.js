@@ -1,4 +1,4 @@
-import ceaserCipher from './ceasarCipher'
+import ceaserCipher from '../code/ceasarCipher'
 
 test('string cipher by 1', () => {
   expect(ceaserCipher('hello')).toBe('ifmmp')

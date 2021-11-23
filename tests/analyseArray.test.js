@@ -1,4 +1,4 @@
-import analyseArray from './analyseArray';
+import analyseArray from '../code/analyseArray';
 
 test('analyse array', () => {
   const object = analyseArray([1,8,3,4,2,6])

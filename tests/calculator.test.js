@@ -1,4 +1,4 @@
-import { add, substract, divide, multiply } from './calculator'
+import { add, substract, divide, multiply } from '../code/calculator'
 
 test('calculator work', () => {
   expect(add(2, 4)).toBe(6)
