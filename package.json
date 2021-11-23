@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Celdama/first-test-with-jestjs#readme",
   "devDependencies": {
+    "@babel/preset-env": "^7.16.4",
     "jest": "^27.3.1"
   }
 }

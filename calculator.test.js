@@ -1,8 +1,8 @@
-const calculator = require('./calculator')
+import { add, substract, divide, multiply } from './calculator'
 
 test('calculator work', () => {
-  expect(calculator.add(2, 4)).toBe(6)
-  expect(calculator.substract(2, 4)).toBe(-2)
-  expect(calculator.divide(2, 4)).toBe(0.5)
-  expect(calculator.multiply(2, 4)).toBe(8)
+  expect(add(2, 4)).toBe(6)
+  expect(substract(2, 4)).toBe(-2)
+  expect(divide(2, 4)).toBe(0.5)
+  expect(multiply(2, 4)).toBe(8)
 })
